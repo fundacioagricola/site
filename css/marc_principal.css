@@ -1,0 +1,4 @@
+a 		{ text-decoration: underline; font-weight: normal; color: #000000; }
+a:visited 	{color: #000000;}
+a:hover		{ font-weight: normal; background-color: #e27000; text-decoration: none; }
+p, body, td, tr 	{ font:12px verdana, arial; color: #000000; }

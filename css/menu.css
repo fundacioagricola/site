@@ -1,0 +1,12 @@
+body {	margin: 0px; 
+	background-color: #FFFFFF;}
+
+a { font:13px verdana, arial; color: #000000; 
+text-decoration: none; font-weight: bold;
+line-height: 150%; }
+
+a:visited {color: #000000;}
+
+a:hover { color: #000000; text-decoration: none; background-color: #00CC66; }
+
+

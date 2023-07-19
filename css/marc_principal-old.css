@@ -1,0 +1,6 @@
+a 		{ text-decoration: none; font-weight: bold; color: #000000; }
+a:visited 	{color: #000000;}
+a:hover		{ color: #E27000; text-decoration: none; background-color: #ffffff; }
+p, body 	{ font:13px verdana, arial; color: #000000; }
+
+
